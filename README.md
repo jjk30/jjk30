@@ -19,4 +19,5 @@ JavaScript, Python, Java, C, C++, React, Node.js, AWS (Lambda, DynamoDB, S3, Clo
 ## Get in touch
 
 - Email: jishnujanardanan2003@gmail.com
-- LinkedIn: https://www.linkedin.com/in/jishnu-j-b22624230/
+- LinkedIn: https://www.linkedin.com/in/jishnu-janardanan/
+- Portfolio Website: https://www.jj30.it.com/
