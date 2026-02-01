@@ -14,7 +14,7 @@ I mostly work on full-stack web apps with React and AWS — been really into ser
 
 ## Tech I use
 
-JavaScript, Python, Java, C, C++, React, Node.js, AWS (Lambda, DynamoDB, S3, CloudFront, EC2), Docker, Git, OpenMP, CUDA, Linux/Ubuntu
+JavaScript, Python, Java, C, C++, React, Node.js, AWS (Lambda, DynamoDB, S3, CloudFront, EC2), Docker, Git, OpenMP, Linux/Ubuntu
 
 ## Get in touch
 
