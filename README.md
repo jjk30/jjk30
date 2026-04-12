@@ -1,4 +1,4 @@
-# Hey, I'm Jishnu 👋
+# Hi, I'm Jishnu
 
 Software engineer based in Chicago. Graduated from Illinois Institute of Technology with a BS in Computer Engineering (Dec 2025).
 
