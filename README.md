@@ -11,6 +11,7 @@ I mostly work on full-stack web apps with React and AWS, been really into server
 **[Old Is Gold](https://oldisgold.fit)** — fitness app designed for seniors. Nutrition tracking, workout recommendations, progress analytics. Same serverless stack, sub-200ms response times.
 
 **Think Fast!** — trivia game I built with a team of 4 using Raspberry Pi and Arduino. Physical buttons, LED feedback, the whole thing. Was a fun change from web dev.
+And I have done many more projects at my university.
 
 ## Tech I use
 
