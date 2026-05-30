@@ -16,6 +16,7 @@ And I have done many more projects at my university.
 ## Tech I use
 
 JavaScript, Python, Java, C, C++, React, Node.js, AWS (Lambda, DynamoDB, S3, CloudFront, EC2), Docker, Git, OpenMP, Linux/Ubuntu
+AI tools: Claude Code, Cursor(sometimes)
 
 ## Get in touch
 
