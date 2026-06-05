@@ -2,7 +2,7 @@
 
 Software engineer based in Chicago. Graduated from Illinois Institute of Technology with a BS in Computer Engineering (Dec 2025).
 
-I mostly work on full-stack web apps with React and AWS, been really into serverless lately. Also dabble in embedded systems when I get the chance.
+I mostly work on full-stack web apps with React and AWS, been really into serverless lately. I also work in embedded systems when I get the chance.
 
 ## What I've been working on
 
