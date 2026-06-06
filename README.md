@@ -13,7 +13,7 @@ I mostly work on full-stack web apps with React and AWS, been really into server
 **Think Fast!** — trivia game I built with a team of 4 using Raspberry Pi and Arduino. Physical buttons, LED feedback, the whole thing. Was a fun change from web dev.
 And I have done many more projects at my university.
 
-## Tech I use
+## My tech stack
 
 JavaScript, Python, Java, C, C++, React, Node.js, AWS (Lambda, DynamoDB, S3, CloudFront, EC2), Docker, Git, OpenMP, Linux/Ubuntu
 
