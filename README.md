@@ -6,7 +6,7 @@ I mostly work on full-stack web apps with React and AWS, been really into server
 
 ## What I've been working on
 
-**[SneakersForLess](https://sneakersforless.org)** — price comparison site for sneakers. React frontend, Lambda + DynamoDB backend, deployed on CloudFront. Set up CI/CD with GitHub Actions, which made deployments way less painful.
+**[SneakersForLess](https://www.sneakersforless.org/)** — price comparison site for sneakers. React frontend, Lambda + DynamoDB backend, deployed on CloudFront. Set up CI/CD with GitHub Actions, which made deployments way less painful.
 
 **[Old Is Gold](https://oldisgold.fit)** — fitness app designed for seniors. Nutrition tracking, workout recommendations, progress analytics. Same serverless stack, sub-200ms response times.
 
