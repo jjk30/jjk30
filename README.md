@@ -17,7 +17,7 @@ And I have done many more projects at my university.
 
 JavaScript, Python, Java, C, C++, React, Node.js, AWS (Lambda, DynamoDB, S3, CloudFront, EC2), Docker, Git, OpenMP, Linux/Ubuntu
 
-AI tools I use: Claude Code, Cursor(sometimes)
+AI tools I use: Claude Code, Cursor and Codex(sometimes)
 
 ## Get in touch
 
