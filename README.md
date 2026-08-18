@@ -15,7 +15,7 @@ And I have done many more projects at my university.
 
 ## My tech stack
 
- Python, JavaScript, Java, C, C++, React, Node.js, AWS (Lambda, DynamoDB, S3, CloudFront, EC2), Docker, Git, OpenMP, Linux/Ubuntu
+ Python, JavaScript, Java, C++, React, Node.js, AWS (Lambda, DynamoDB, S3, CloudFront, EC2), Docker, Git, OpenMP, Linux/Ubuntu
 
 AI tools I use: Claude Code and Codex(sometimes)
 
