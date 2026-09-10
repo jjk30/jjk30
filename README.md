@@ -44,7 +44,7 @@ I build backend and AI infrastructure — LLM gateways, low-latency C++ systems,
 - **AI:** Claude API, OpenAI, NVIDIA NIM, Amazon Bedrock, MCP, LangChain/LangGraph, RAG (FAISS), LoRA fine-tuning, llama.cpp
 - **Systems:** Bazel, GoogleTest, lock-free data structures, OpenMP, Linux
 
-AI tools I use: Claude Code, Codex
+AI tools I use: Claude Code, Gemini
 
 ## Get in touch
 
