@@ -2,7 +2,7 @@
 
 Software engineer based in Chicago. BS in Computer Engineering, Illinois Institute of Technology (May 2026).
 
-I build backend and AI infrastructure — LLM gateways, low-latency C++ systems, and production services on AWS. Currently looking for backend, founding engineer, Software Engineer, Cloud Engineer, or FinTech Engineer roles
+I build backend and AI infrastructure — LLM gateways, low-latency C++ systems, and production services on AWS. Currently looking for backend, founding engineer, and trading-infrastructure roles.
 
 ## What I've been working on
 
@@ -35,14 +35,14 @@ I build backend and AI infrastructure — LLM gateways, low-latency C++ systems,
 
 **Fellowship**
 
-![Open Avenues Build Fellowship](https://img.shields.io/badge/Open_Avenues_Build_Fellowship-C%2B%2B_Systems_for_Finance-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+[![Open Avenues Build Fellowship](https://img.shields.io/badge/Open_Avenues_Build_Fellowship-C%2B%2B_Systems_for_Finance-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.jj30.it.com/build-fellowship-certificate.pdf)
 
 ## Tech stack
 
-**Languages:** Python, C++, JavaScript, Java, SQL
-**Backend & infra:** FastAPI, Node.js, React, Redis, PostgreSQL, Docker, Kubernetes, Terraform, AWS (Lambda, DynamoDB, S3, CloudFront, EC2, Bedrock, SES), Prometheus, Grafana
-**AI:** Claude API, OpenAI, NVIDIA NIM, Amazon Bedrock, MCP, LangChain/LangGraph, RAG (FAISS), LoRA fine-tuning, llama.cpp
-**Systems:** Bazel, GoogleTest, lock-free data structures, OpenMP, Linux
+- **Languages:** Python, C++, JavaScript, Java, SQL
+- **Backend & infra:** FastAPI, Node.js, React, Redis, PostgreSQL, Docker, Kubernetes, Terraform, AWS (Lambda, DynamoDB, S3, CloudFront, EC2, Bedrock, SES), Prometheus, Grafana
+- **AI:** Claude API, OpenAI, NVIDIA NIM, Amazon Bedrock, MCP, LangChain/LangGraph, RAG (FAISS), LoRA fine-tuning, llama.cpp
+- **Systems:** Bazel, GoogleTest, lock-free data structures, OpenMP, Linux
 
 AI tools I use: Claude Code, Codex
 
