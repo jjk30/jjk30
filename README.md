@@ -1,6 +1,6 @@
 # Hi, I'm Jishnu
 
-Software engineer based in Chicago. BS in Computer Engineering, Illinois Institute of Technology (May 2026).
+Software Engineer based in Chicago. BS in Computer Engineering, Illinois Institute of Technology (May 2026).
 
 I build backend and AI infrastructure — LLM gateways, low-latency C++ systems, and production services on AWS. Currently looking for backend, founding engineer, Software Engineer, Cloud Engineer or FinTech roles
 
